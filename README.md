@@ -1,4 +1,5 @@
 # JSPboard
+JSP및 SERVLET으로 만든 게시판
 ![image](https://github.com/user-attachments/assets/281e409b-9114-4fc9-aadd-58c0e2befc00)
 ![image](https://github.com/user-attachments/assets/b65c4f98-8dd4-415b-9e5b-6a65075a5970)
 ![image](https://github.com/user-attachments/assets/b5755eb0-c6e7-46fd-9065-6aa32f28b2e5)
